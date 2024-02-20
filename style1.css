@@ -1,0 +1,12 @@
+.main{
+    height: 30%;
+    width:100%;
+    border:1px solid black;
+    display:flex;
+}
+.child{
+    height:50px;
+    width:50px;
+    border:2px solid green;
+    background-color: aquamarine;
+}
